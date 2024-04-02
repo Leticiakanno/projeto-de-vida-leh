@@ -1,2 +1,2 @@
 # projeto-de-vida-leh
-Amo meu amorzão
+trabalho de programação
